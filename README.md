@@ -13,4 +13,8 @@ https://colab.research.google.com/drive/1j5KE4Y3vjQd_TCvKRo1G69Km5x5yS_Rl#scroll
   Please feel free to fork it and work on it as required. 
   The link to the Google colab code is: https://colab.research.google.com/drive/1-xH4zZ8mRxjoG5L8IUI1vY8OJbvjDfXh?usp=sharing
 </p>
-  
+<p>
+  The same has been implemented for PewDiePie's video titled 'My Response'. 
+  The link to the weights in this case is available too and the required video can be viewed too.
+  The link to the Google Colab code: https://colab.research.google.com/drive/1YdpLso7z0Yifg-skH61vBhlYXt8SJcMP?usp=sharing
+</p>
