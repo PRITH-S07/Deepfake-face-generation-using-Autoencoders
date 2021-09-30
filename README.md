@@ -5,3 +5,11 @@ The current model available here has a val_loss of 0.07955 on the celeba dataset
 The code titled Deepfake_Image_Generation.ipynb is a code to generate random images of people who have never existed before given a particular face as input.<br>
 The link to the Google Colab code:<br>
 https://colab.research.google.com/drive/1j5KE4Y3vjQd_TCvKRo1G69Km5x5yS_Rl#scrollTo=_ymCX2tT8yQe
+<br>
+<br>
+<p>
+  I have also created just a deep fake of Logan Paul's video titled 'So Sorry'. Video analysis has been implemented on this video along with the use of autoencoders.
+  The downloaded video is available here and also, the link to the weights is available in my repository too.
+  Please feel free to fork it and work on it as required. 
+</p>
+  
